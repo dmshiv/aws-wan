@@ -1,0 +1,22 @@
+Deployment Order:
+
+1.Apply 
+
+first wan then others
+
+2.destroy
+
+first others than wan 
+
+
+Tf automation script basically what it does ?
+
+✅ Universal Terraform Automation Script - Complete!
+What it does:
+
+🔍 Auto-detects any number of Terraform folders
+🏗️ Builds infrastructure sequentially (wan → regional folders)
+🗑️ Destroys infrastructure intelligently (checks what exists first)
+⚡ Shows errors immediately when they happen
+🛑 Stops on first failure to prevent cascading issues
+🔄 Works regardless of how infrastructure was originally built
